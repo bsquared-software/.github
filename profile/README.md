@@ -19,7 +19,12 @@ B Squared Software Development designs and builds line-of-business systems, inte
 - Eight applications on one platform for a construction and M&E group, from estimating to project management.
 - [Curbed](https://bsquared.software/work/curbed), our own fleet-damage software, live with a taxi operator in the Netherlands.
 
-**Why there's not much to see here:** client code lives in our clients' accounts, not ours. That's the point.
+**Open source**
+
+Client code lives in our clients' accounts, not ours. That's the point. What we can share, we do:
+
+- [**Lumen**](https://github.com/bsquared-software/lumen): a macOS menu bar app for monitors. On/off, brightness over DDC, resolutions and presets.
+- [**Vigil**](https://github.com/bsquared-software/vigil): a native macOS server monitor. Metrics, Docker, terminal and files, all over SSH.
 
 [bsquared.software](https://bsquared.software) · [Start a project](https://bsquared.software/contact) · [brandon@bsquared.software](mailto:brandon@bsquared.software) · [LinkedIn](https://www.linkedin.com/company/bsquared-software)
 
