@@ -21,6 +21,6 @@ B Squared Software Development designs and builds line-of-business systems, inte
 
 **Why there's not much to see here:** client code lives in our clients' accounts, not ours. That's the point.
 
-[bsquared.software](https://bsquared.software) · [Start a project](https://bsquared.software/contact) · [brandon@bsquared.software](mailto:brandon@bsquared.software) · [LinkedIn](https://www.linkedin.com/company/146631382)
+[bsquared.software](https://bsquared.software) · [Start a project](https://bsquared.software/contact) · [brandon@bsquared.software](mailto:brandon@bsquared.software) · [LinkedIn](https://www.linkedin.com/company/bsquared-software)
 
 <sub>B Squared Software Development Ltd · Registered in England and Wales, no. 17262958</sub>
